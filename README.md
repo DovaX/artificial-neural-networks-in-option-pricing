@@ -2,7 +2,7 @@
 
 Master thesis at the Institute of Economic Studies, Faculty of Social Sciences, Charles University in Prague
 
-This thesis examines the application of neural networks in the context of option
+Abstract: This thesis examines the application of neural networks in the context of option
 pricing. Throughout the thesis, different architecture choices and prediction parameters
 are tested and compared in order to achieve better performance and
 higher accuracy in option valuation. Two different volatility forecast mechanisms
