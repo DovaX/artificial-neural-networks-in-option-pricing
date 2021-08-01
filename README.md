@@ -1,4 +1,4 @@
-# artifical-neural-networks-in-option-pricing
+# artificial-neural-networks-in-option-pricing
 
 Master thesis at the Institute of Economic Studies, Faculty of Social Sciences, Charles University in Prague
 
